@@ -15,7 +15,7 @@
    ```
 3. Run `cub3d` with any map of your choice
    ```sh
-   ./cub3d maps/q.cub
+   ./cub3d maps/inv.cub
    ```
 
 <img width="1917" alt="cub3d" src="https://user-images.githubusercontent.com/97880185/227708246-c58bceea-c940-400a-af6a-d466d6462d21.png">
