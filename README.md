@@ -7,7 +7,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/furkangny/Common-core
+   git clone https://github.com/furkangny/Cub-3D
    ```
 2. Compile all source code with Makefile in root folder
    ```sh
